@@ -1,5 +1,7 @@
 # Next.js example
 
+[![Build Status](https://lighthouse-ci.lazyorange.xyz/api/reports/badge/seo?url=https://nextjs-web-app.lazyorange.xyz/)](https://github.com/lazyorangejs/nextjs-web-app)
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui-org/material-ui):
