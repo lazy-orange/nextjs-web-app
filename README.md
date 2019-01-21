@@ -1,6 +1,7 @@
 # Next.js example
-
-[![Build Status](https://lighthouse-ci.lazyorange.xyz/api/reports/badge/seo?url=https://nextjs-web-app.lazyorange.xyz/)](https://github.com/lazyorangejs/nextjs-web-app)
+[![Build Status](https://img.shields.io/badge/lighthouse_performance-95-green.svg)](https://travis-ci.org/emazzotta/lighthouse-badges)
+[![Build Status](https://lighthouse-ci.lazyorange.xyz/api/reports/badge/performance.svg?url=https://nextjs-web-app.lazyorange.xyz/)](https://github.com/lazyorangejs/nextjs-web-app)
+[![Perf score](https://7948f23c.ngrok.io/api/reports/badge/performance.svg)](https://github.com/lazyorangejs/nextjs-web-app)
 
 ## How to use
 
